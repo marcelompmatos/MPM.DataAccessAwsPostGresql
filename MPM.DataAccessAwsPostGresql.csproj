@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <PackageId>MPM.DataAccessAwsPostGresql</PackageId>
+    <PackageId>MPM.DataAccessAwsPostGresqlAws</PackageId>
     <Version>1.0.1</Version>
     <Authors>Marcelo Matos</Authors>
     <Company>MPM</Company>
